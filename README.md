@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peeyush Agarwal</h1>
-<h3 align="center">A passionate Developer who loves turning ideas into reality using code.</h3>
+<h3 align="center">A passionate developer who loves turning ideas into reality using code.</h3>
 
 
 - 📫 How to reach me **peeyush0205@gmail.com**
